@@ -6,5 +6,5 @@
 
 - 🌱 I’m currently learning threejs, you might see some stuff about that among my repos (or not).
 - 👯 I’m looking to collaborate on opensource projects that are related to making software engineering logic easier for software developers in a way that doesn't impose on the developers' design philosophy.
-- 👨🏾‍💻 I'm also interested in projects that involve building products using USSD technology, to any degree, as I am looking to learn more about it.
+- 👨🏾‍💻 I'm also interested in projects that involve or use USSD technology, to any degree, as I am looking to learn more about it.
 - ✍🏽 You can check my blog at [dondaniel.hashnode.dev](https://dondaniel.hashnode.dev)
