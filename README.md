@@ -1,3 +1,4 @@
+![undraw_version_control_re_mg66](https://user-images.githubusercontent.com/66220736/191988276-a7b3c04c-f3d9-4cd6-afb1-4bd4269a6eaf.png)
 ### ``Hi there`` 👋 
 #### ``I'm Daniel, a software engineer and technical writer.``
 
