@@ -1,4 +1,3 @@
-![coding-video-1](https://user-images.githubusercontent.com/66220736/196538765-f9805e46-0d45-45a0-bc02-c8952208817f.gif)
 
 
 ### ``Hi there`` 👋 
